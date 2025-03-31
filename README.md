@@ -32,8 +32,4 @@
   </a>
 </div>
 
-
-
-### watch snake eating ijul's github contributions
-
 ![snake gif](https://github.com/i-i-ijul/i-i-ijul/blob/output/github-contribution-grid-snake.svg)
