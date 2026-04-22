@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Izzul Maulanal Haqqi and I'm currently studying at Muhammadiyah University of Yogyakarta. I'm in the Information Technology department. Nice to meet y'all ❤‍🔥!</h2>
-
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/DC5qyqaxE3jRPMiNPe/giphy.gif?cid=790b7611dkfgquiepoixmzljzrcvfy4shngl633s39fzoe6q&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
